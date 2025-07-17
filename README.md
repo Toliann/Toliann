@@ -35,7 +35,7 @@ Lethal Company Mods
 REPO Mods
 🔗
 [Tolian Levels](https://thunderstore.io/c/repo/p/Tolian/Tolian_Levels/)
-[DiscordRPC](https://thunderstore.io/c/repo/p/Tolian/REPODiscordRichPresence/)
+[REPODiscordRPC](https://thunderstore.io/c/repo/p/Tolian/REPODiscordRichPresence/)
 
 ### 🌐 VRChat
 🔗
