@@ -2,7 +2,7 @@
 
 ## 🔧 Projects
 
-### <img src="path_or_url_to_icon.png" width="20" /> Lethal Company
+### <img src="https://cdn2.steamgriddb.com/icon/dead87a4c00de43486ca1c34d9b33c3c/32/512x512.png" width="20" /> Lethal Company
 
 
 Lethal Company Mods
@@ -30,7 +30,7 @@ Lethal Company Mods
 [Tomb](https://thunderstore.io/c/lethal-company/p/Tolian/Tomb/)
 [Hadal Laboratories](https://thunderstore.io/c/lethal-company/p/Tolian/Hadal_Laboratories/)
 
-### <img src="path_or_url_to_icon.png" width="20" /> REPO
+### <img src="https://cdn2.steamgriddb.com/icon/0504b3f1ca5994854e8718b2090ab098.ico" width="20" /> REPO
  REPO 
 REPO Mods
 🔗
