@@ -55,6 +55,6 @@ REPO Mods
 
 ## 📫 Find Me
 
-- 🔗 [Thunderstore Profile](https://thunderstore.io/c/lethal-company/p/Tolian/)
+- My discord server - [Tolian Serv](https://discord.gg/ybjPfxCKZX)
 - 📸 [Patreon – dev logs & previews](https://www.patreon.com/Tolian)
 - 📨 Tolik12347711@gmail.com
