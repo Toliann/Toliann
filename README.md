@@ -1,10 +1,8 @@
-# 👋 Hi, I'm Tolian
-
 ---
 
 ## 🔧 Projects
 
-### 🛸 Lethal Company
+### <img src="path_or_url_to_icon.png" width="20" /> Lethal Company
 
 
 Lethal Company Mods
@@ -32,7 +30,8 @@ Lethal Company Mods
 [Tomb](https://thunderstore.io/c/lethal-company/p/Tolian/Tomb/)
 [Hadal Laboratories](https://thunderstore.io/c/lethal-company/p/Tolian/Hadal_Laboratories/)
 
-### 🧠 REPO
+### <img src="path_or_url_to_icon.png" width="20" /> REPO
+ REPO 
 REPO Mods
 🔗
 [Tolian Levels](https://thunderstore.io/c/repo/p/Tolian/Tolian_Levels/)
