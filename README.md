@@ -17,10 +17,10 @@ Lethal Company Mods
 [Zenit](https://thunderstore.io/c/lethal-company/p/Tolian/Zenit/)
 [Azure](https://thunderstore.io/c/lethal-company/p/Tolian/Echelon/)
 [Argent](https://thunderstore.io/c/lethal-company/p/Tolian/Argent/)
-[Budapest](https://thunderstore.io/c/lethal-company/p/Tolian/Nimbus/) 
+[Budapest](https://thunderstore.io/c/lethal-company/p/Tolian/Budapest/) 
 [Nimbus](https://thunderstore.io/c/lethal-company/p/Tolian/Nimbus/) 
 [Echelon](https://thunderstore.io/c/lethal-company/p/Tolian/Echelon/) 
-[Crystallum](https://thunderstore.io/c/lethal-company/p/Tolian/Nimbus/) 
+[Crystallum](https://thunderstore.io/c/lethal-company/p/Tolian/Crystallum/) 
 [Spactralis](https://thunderstore.io/c/lethal-company/p/Tolian/Spectralis/)
 [CaltPrime](https://thunderstore.io/c/lethal-company/p/Tolian/CaltPrime/)
 
