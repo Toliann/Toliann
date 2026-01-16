@@ -23,6 +23,7 @@ Lethal Company Mods
 [Crystallum](https://thunderstore.io/c/lethal-company/p/Tolian/Crystallum/) 
 [Spactralis](https://thunderstore.io/c/lethal-company/p/Tolian/Spectralis/)
 [CaltPrime](https://thunderstore.io/c/lethal-company/p/Tolian/CaltPrime/)
+[Redfen](https://thunderstore.io/c/lethal-company/p/Tolian/Redfen/)
 
 🔗 [Tolian's Interior:](https://thunderstore.io/c/lethal-company/p/Tolian/Tolian_Interiors/) - 
 [TeraSpace](https://thunderstore.io/c/lethal-company/p/Tolian/TeraSpace/) 
